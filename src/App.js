@@ -12,9 +12,7 @@ export default function App() {
             alt="logo"
           />
         </header>
-        <main>
-          <Dictionary defaultKeyword="sunset" />
-        </main>
+        <Dictionary defaultKeyword="sunset" />
         <footer className="App-footer">
           {" "}
           <small>
