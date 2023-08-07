@@ -27,6 +27,12 @@ export default function Results(props) {
       </div>
     );
   } else {
-    return null;
+    return (
+      <div className="Results">
+        <section>
+          Word not found, check your spelling or try search for another word.
+        </section>
+      </div>
+    );
   }
 }
