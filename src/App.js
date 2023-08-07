@@ -19,7 +19,10 @@ export default function App() {
             <a href="https://github.com/leighannemarais/dictionary-app">
               Coded
             </a>{" "}
-            by Leigh-Anne Marais
+            by {""}
+            <a href="https://gentle-kitten-8d1414.netlify.app/">
+              Leigh-Anne Marais
+            </a>
           </small>
         </footer>
       </div>
